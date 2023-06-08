@@ -26,3 +26,7 @@ To run the RazorpayClone website locally, follow these steps:
 👉 cd razorpayclone
 
    - Open the index.html file in your preferred web browser.
+
+
+# Video 🎥
+
